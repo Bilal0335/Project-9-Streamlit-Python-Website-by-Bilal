@@ -34,9 +34,6 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-## 📸 Screenshot
-![Python Website](https://python-website-by-bilal.streamlit.app/)
-
 ## 🤝 Contributing
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
