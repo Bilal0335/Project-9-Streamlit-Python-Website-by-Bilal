@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
    ```
 
 ## 📸 Screenshot
-![Python Website](https://via.placeholder.com/800x400.png?text=Python+Website+App)
+![Python Website](https://python-website-by-bilal.streamlit.app/)
 
 ## 🤝 Contributing
 Feel free to contribute to this project by submitting pull requests or reporting issues.
